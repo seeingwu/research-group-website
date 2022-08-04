@@ -1,20 +1,32 @@
 ---
-title: 统计与数据科学系组织学生赴深圳市应急管理监测预警指挥中心参观学习
-subtitle: 学生活动
+title: Department of Statistics and Data Science organized students to visit and
+  study in Shenzhen Emergency Management Monitoring and Early Warning Command
+  Center
+subtitle: Student Activities
 date: 2021-11-06T16:00:00.000Z
 summary: >-
-  此次参观的深圳市应急管理监测预警指挥中心是我系杨丽丽教授主持的国家重点研发项目“南方新兴超大型城市公共安全风险防控系统研发与应用示范”中的合作项目之一。杨老师表示，南科大统计系的数据科学与大数据技术专业旨在培养社会急需的、具备大数据处理及分析能力的高级复合型人才，符合国家大数据战略及深圳市建设特色社会主义先行示范区的重大需求。
+  The Shenzhen Emergency Management Monitoring and Warning Command Center
+  visited this time is one of the cooperation projects in the national key
+  research and development project "Research and Development and Application
+  Demonstration of Public Security Risk Prevention and Control System in
+  Southern Emerging Supercities" chaired by Professor Yang Lili of our
+  department. According to Professor Yang, the data science and Big Data
+  technology major in the Department of Statistics of South University of
+  Science and Technology aims to cultivate senior compound talents with the
+  ability of big data processing and analysis, which is in line with the
+  national big data strategy and the major demand of Shenzhen to build a
+  distinctive socialist pilot demonstration zone.
 
 
-  本次参观活动不仅促进了统计系数据科学与大数据技术专业第一届学生们对专业的认识及其实际应用的了解，更使得同学们深刻认识到所学专业知识能够为保障城市安全，建设更智能化、科技化、信息化的社会贡献力量。
+  This visit not only promoted the knowledge of the first class of students majoring in statistical coefficient Science and big Data Technology about the major and its practical application, but also made them deeply realize that the professional knowledge they had learned could contribute to the security of the city and build a more intelligent, technological and information-based society.
 featured: true
 image:
   filename: featured.png
 ---
-2021年11月7日上午，南方科技大学统计与数据科学系（以下简称“统计系”）教授、树德书院院长杨丽丽组织统计系数据科学与大数据技术专业第一届本科生及树德书院约20名学生，前往深圳国际创新中心，参观深圳市应急管理监测预警指挥中心。深圳市城市公共安全技术研究院信息与监测中心总经理尹继尧博士亲自引导讲解，并与学生们进行深入交流。
+Morning of November 7, 2021, the south university of science and technology science statistics and data (hereinafter referred to as the "statistics") professor, Shude academy dean Lili Yang organised coefficient according to the first undergraduate students with professional science and technology of data and about 20 students, to Shenzhen international innovation center, visit Shenzhen city emergency management monitoring and early warning command center. Dr. Yin Jiyao, general manager of Information and Monitoring Center of Shenzhen Institute of Urban Public Safety Technology, guided the presentation and had in-depth communication with the students.
 
-首先，尹总经理为同学们详细介绍中心的建设背景及功能模块。据深圳市应急管理信息化发展规划，深圳市形成了以“一库、四平台、N系统”统筹全市应急管理信息化建设的整体框架，即以应急管理大数据库为基础，构建监测预警平台、应急指挥平台、宣传教育平台和监管执法平台四大核心中枢，以及危化品监测、城市生命线、智慧三防、智慧森防等一系列系统模。该中心系统接入了深圳市15个安委办的数据，覆盖了整个深圳市的基础运行，数据量达到450亿条。
+First, General Manager Yin introduced the construction background and functional modules of the center in detail. According to the emergency management informationization development planning of shenzhen, shenzhen has formed with "one library, siping, N system" to co-ordinate the overall framework of the city's emergency management informationization construction, namely on the basis of the emergency management of large database, build a platform for monitoring and early warning, emergency command platform, publicity and education platform and the four core central regulatory enforcement platform, And hazardous chemical monitoring, city lifeline, smart three prevention, smart forest prevention and a series of system models. The center system is connected to the data of 15 security offices in Shenzhen, covering the basic operation of the whole city, and the amount of data reaches 45 billion.
 
-随后，同学们通过观看最新深圳市三防演练宣传片，以及尹总经理为同学们展示的几个系统实况，如地铁监测系统和智慧三防系统等的实际运用情景，了解到中心如何通过整合市相关部门的海量数据、对实时视频及预警信息等进行监测和分析，从而实现动态监测、智能预警、精准监管、快速处置，达到全面提高深圳应急管理监测预警能力、监管执法能力、辅助指挥和决策能力、救援实战能力和社会动员能力，实现以信息化推进深圳市应急管理现代化水平的提升。
+Then, the students by watching the latest shenzhen three exercise promotion, as well as the general manager Yin to show the students a few system live, such as metro monitoring system and intelligence is three system situation of practical application, and understand how to center by integrating the city related department to the huge amounts of data, information and other monitoring and early warning system for real-time video and analysis, In this way, dynamic monitoring, intelligent early warning, precise supervision and rapid disposal can be realized, and Shenzhen's emergency management monitoring and early warning ability, supervision and law enforcement ability, auxiliary command and decision-making ability, rescue combat ability and social mobilization ability can be comprehensively improved, so as to promote the modernization level of Shenzhen's emergency management by informatization.
 
-最后，尹总经理与学生们进行深入交流，并解答同学们提出的问题。他表示，城市安全科技信息化建设至关重要，对大数据技术方面的人才需求也在持续增加。
+Finally, President Yin had an in-depth exchange with the students and answered their questions. He said that the construction of urban security technology informatization is crucial, and the demand for talent in big data technology is also increasing.
