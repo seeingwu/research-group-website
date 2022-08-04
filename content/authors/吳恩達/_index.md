@@ -1,12 +1,13 @@
 ---
+title: Huang Zhejun
+role: Research Assistant Professor
+avatar_filename: avator.png
 organizations:
   - name: Southern University of Science and Technology
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: Huang Zhejun
-role: Research Assistant Professor
 bio: My research interests include public safety and emergency management,
   disaster risk analysis, disaster response for decision making, disaster risk
   reduction and management, decision making and control for autonomous vehicles,
