@@ -31,9 +31,9 @@ content:
         color: '#555'
         brightness: 0.7
         media: welcome.jpg
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
 ---
