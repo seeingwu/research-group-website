@@ -1,14 +1,20 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: 统计与数据科学系组织学生赴深圳市应急管理监测预警指挥中心参观学习
+subtitle: 学生活动
+date: 2021-11-06T16:00:00.000Z
+summary: >-
+  此次参观的深圳市应急管理监测预警指挥中心是我系杨丽丽教授主持的国家重点研发项目“南方新兴超大型城市公共安全风险防控系统研发与应用示范”中的合作项目之一。杨老师表示，南科大统计系的数据科学与大数据技术专业旨在培养社会急需的、具备大数据处理及分析能力的高级复合型人才，符合国家大数据战略及深圳市建设特色社会主义先行示范区的重大需求。
+
+
+  本次参观活动不仅促进了统计系数据科学与大数据技术专业第一届学生们对专业的认识及其实际应用的了解，更使得同学们深刻认识到所学专业知识能够为保障城市安全，建设更智能化、科技化、信息化的社会贡献力量。
+featured: true
+image:
+  filename: featured.png
 ---
+2021年11月7日上午，南方科技大学统计与数据科学系（以下简称“统计系”）教授、树德书院院长杨丽丽组织统计系数据科学与大数据技术专业第一届本科生及树德书院约20名学生，前往深圳国际创新中心，参观深圳市应急管理监测预警指挥中心。深圳市城市公共安全技术研究院信息与监测中心总经理尹继尧博士亲自引导讲解，并与学生们进行深入交流。
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+首先，尹总经理为同学们详细介绍中心的建设背景及功能模块。据深圳市应急管理信息化发展规划，深圳市形成了以“一库、四平台、N系统”统筹全市应急管理信息化建设的整体框架，即以应急管理大数据库为基础，构建监测预警平台、应急指挥平台、宣传教育平台和监管执法平台四大核心中枢，以及危化品监测、城市生命线、智慧三防、智慧森防等一系列系统模。该中心系统接入了深圳市15个安委办的数据，覆盖了整个深圳市的基础运行，数据量达到450亿条。
 
-<!--more-->
+随后，同学们通过观看最新深圳市三防演练宣传片，以及尹总经理为同学们展示的几个系统实况，如地铁监测系统和智慧三防系统等的实际运用情景，了解到中心如何通过整合市相关部门的海量数据、对实时视频及预警信息等进行监测和分析，从而实现动态监测、智能预警、精准监管、快速处置，达到全面提高深圳应急管理监测预警能力、监管执法能力、辅助指挥和决策能力、救援实战能力和社会动员能力，实现以信息化推进深圳市应急管理现代化水平的提升。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+最后，尹总经理与学生们进行深入交流，并解答同学们提出的问题。他表示，城市安全科技信息化建设至关重要，对大数据技术方面的人才需求也在持续增加。
