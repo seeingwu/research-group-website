@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: Join us
 
 content:
   # Contact (edit or remove options as required)
