@@ -15,7 +15,7 @@ title: SUSTech Workshop on Emergency Management
 location: Wisdom Building 3, SUSTech.
 date: 2019-09-19T13:00:00.000Z
 date_end: 2019-09-18T22:00:00.000Z
-all_day: false
+all_day: true
 event: SUSTech Workshop on Emergency Management
 event_url: "#"
 featured: false
