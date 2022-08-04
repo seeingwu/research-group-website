@@ -1,73 +1,41 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: YANG Lili
+role: Professor of in Department of Statistics and Data Science
+avatar_filename: avatar.png
+bio: My research interests include Big data analysis, Decision science,
+  Multi-objective optimization, Emergency model building, and Energy
+  relationship analysis.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Big data analysis
+  - Decision science
+  - Multi-objective optimization
+  - Emergency model building
+  - Energy relationship analysis
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:yangll@sustech.edu.cn
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: https://stat-ds.sustech.edu.cn/teacher/YANGLili?lang=en-us
+organizations:
+  - name: Southern University of Science and Technology
+    url: ""
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: The University of Derby, UK
+      year: 2004
+    - course: MSc in Information Technology
+      institution: Loughborough University, UK
+      year: 2000
+    - course: BSc in Automation
+      institution: Petroleum University, China
+      year: 1981
+email: ""
+superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
+highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prof. Dr. Lili Yang, a professor in Department of Statistics and Data Science at Southern University of Science and Technology. She was working at Loughborough University in the UK. She has been a tenure assistant professor, associate professor and then professor in the School of Business and Economics at Loughborough University, and a senate member of the Loughborough University. She has also served as Associate Director of the Service Management Research Center and the head of the Emergency Management Research Group. She was selected as a Fellow of the British Computer Society in 2008 (BCS Fellow). Professor Yang has long been engaged in the research of theories and methods of public safety emergency management to preside over and complete more than 20 important projects funded by the European Commission (European Commission FP7), the UK National Engineering and Natural Sciences Fund (EPSRC), or the British Ministry of Defence (MoD), etc. Her many scientific research results have been successfully applied into real life practices. She has published three books and more than 100 papers. She has been acting as an EPSRC Associate Peer Review Colleague for a long time and playing the role as an expert reviewer for different scientific funding bodies in the UK, China, Portugal and Luxembourg etc. At present in Southern University of Science and Technology, she is leading a project of the National Natural Science Foundation of China, and a sub-project leader for the project of National Key Research and Development Program of the Ministry of Science and Technology.
