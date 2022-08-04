@@ -1,7 +1,7 @@
 ---
 title: Huang Zhejun
 role: Research Assistant Professor
-avatar_filename: avator.png
+avatar_filename: avatar.png
 organizations:
   - name: Southern University of Science and Technology
     url: ""
