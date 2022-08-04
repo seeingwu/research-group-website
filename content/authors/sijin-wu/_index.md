@@ -30,5 +30,7 @@ education:
       institution: Southern University of Science and Technology
       year: ""
 superuser: false
+user_groups:
+  - Grad Students
 ---
 Sijin Wu is currently enrolled in the split-site PhD program at University of Leeds, Leeds, UK and Southern University of Science and Technology, Shenzhen, China. The dominant study scope includes the human mobility, data science and multi-agent modelling.
